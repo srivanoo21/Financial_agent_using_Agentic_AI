@@ -23,7 +23,7 @@ The Python script performs the following tasks:
   Creates a web interface (Playground) that lets you choose which agent to run based on your query.
 
 - **Application Execution:**  
-  Launches a web server to interact with the agents through your browser.
+  Launches a web server to interact with the agents through your browser. Once you run playground.py, go to www.agno.com, navigate to the Playground section, select the desired endpoint, and enter user queries to interact with it.
 
 
 
